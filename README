@@ -1,0 +1,18 @@
+deliverable-webapp
+----------
+This is a deliverable Java web-based application. By deliverable, I mean that this application can be delivered to non-technical final users, and they can run it with a simple click (no web application server install or configuration required).
+
+- How to Build:
+git clone http://github.com/jbaris/deliverable-webapp
+cd deliverable-webapp
+mvn clean package
+
+- How to Run:
+
+  - On Windows:
+  cd target
+  deliverable-webapp.exe
+
+  - On Linux:
+  cd target
+  java -jar deliverable-webapp-1.0.jar
