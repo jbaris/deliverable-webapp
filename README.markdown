@@ -4,21 +4,21 @@ This is a deliverable Java web-based application. By deliverable, I mean that th
 
 How to Build:
 -------------
-'git clone http://github.com/jbaris/deliverable-webapp
-cd deliverable-webapp
-mvn clean package'
+git clone http://github.com/jbaris/deliverable-webapp  
+cd deliverable-webapp  
+mvn clean package   
 
 How to Run:
 -----------
-* On Windows:
-'cd target
-deliverable-webapp.exe'
+* On Windows:  
+cd target  
+deliverable-webapp.exe   
 
-* On Linux:
-'cd target
-java -jar deliverable-webapp-1.0.jar'
+* On Linux:  
+cd target  
+java -jar deliverable-webapp-1.0.jar  
 
 How to Test:
 ------------
 Once runned, click on the "Start server" button. Then, open a web browser and enter http://localhost:8080
-[![](http://jbaris.github.com/deliverable-webapp/screenshot.png)
+    ![](http://jbaris.github.com/deliverable-webapp/screenshot.png)
