@@ -36,7 +36,7 @@ public class CarDAOImpl extends HibernateDaoSupport implements CarDAO {
 	protected void initDao() throws Exception {
 		// Simulates a long startup
 		for (int i = 20; i < 90; i++) {
-			Thread.sleep(5);
+			Thread.sleep(50);
 			getProgressMonitor().setCurrent("Init db...", i);
 		}
 	}
