@@ -18,4 +18,4 @@ java -jar deliverable-webapp-1.0.jar
 
 - How to Test:
 Once runned, click on the "Start server" button. Then, open a web browser and enter http://localhost:8080
-![screenshot](http://jbaris.github.com/deliverable-webapp/screenshot.png)
+[![](http://jbaris.github.com/deliverable-webapp/screenshot.png)
