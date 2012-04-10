@@ -11,14 +11,17 @@ How to Build:
 How to Run:  
 -----------
 On Windows:  
+
     cd target  
     deliverable-webapp.exe   
+
 On Linux:    
+
     cd target  
     java -jar deliverable-webapp-1.0.jar  
 
 How to Test:
 ------------
-Once runned, click on the "Start server" button.   
+Once runned, click on the "Start server" button:   
     ![](http://jbaris.github.com/deliverable-webapp/screenshot.png)  
 Then, open a web browser and enter http://localhost:8080  
