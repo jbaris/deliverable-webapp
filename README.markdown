@@ -11,10 +11,12 @@ How to Build:
 How to Run:
 -----------
 * On Windows:  
+
     cd target  
     deliverable-webapp.exe   
 
-* On Linux:  
+* On Linux
+
     cd target  
     java -jar deliverable-webapp-1.0.jar  
 
