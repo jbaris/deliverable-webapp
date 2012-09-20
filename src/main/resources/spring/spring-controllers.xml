@@ -8,12 +8,12 @@
 		class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping" />
 
 	<bean name="/car.admin.do"
-		class="jbaris.wordpress.com.deliverableWebApp.controller.AdminCarsController">
+		class="com.wordpress.jbaris.deliverableWebApp.controller.AdminCarsController">
 		<property name="carBO" ref="car.bo" />
 	</bean>
 
 	<bean name="/car.add.do"
-		class="jbaris.wordpress.com.deliverableWebApp.controller.AddCarController">
+		class="com.wordpress.jbaris.deliverableWebApp.controller.AddCarController">
 		<property name="carBO" ref="car.bo" />
 	</bean>
 

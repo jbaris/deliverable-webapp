@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
            http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://cxf.apache.org/jaxws http://cxf.apache.org/schemas/jaxws.xsd">
 
-	<bean id="car.dao" class="jbaris.wordpress.com.deliverableWebApp.dao.impl.CarDAOImpl">
+	<bean id="car.dao" class="com.wordpress.jbaris.deliverableWebApp.dao.impl.CarDAOImpl">
 		<property name="sessionFactory" ref="sessionFactory"/>
 		<property name="progressMonitor" ref="progressMonitor"/>
 	</bean>

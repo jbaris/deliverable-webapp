@@ -160,7 +160,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>jbaris.wordpress.com.deliverableWebApp.ui.Main
+							<mainClass>com.wordpress.jbaris.deliverableWebApp.ui.Main
 							</mainClass>
 						</manifest>
 					</archive>
